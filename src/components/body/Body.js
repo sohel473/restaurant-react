@@ -1,7 +1,9 @@
+import Menu from "./Menu";
+
 const Body = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <Menu />
     </div>
   );
 };
