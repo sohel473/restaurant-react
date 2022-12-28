@@ -10,7 +10,7 @@ const MenuItem = (props) => {
   // console.log(props);
   return (
     <div>
-      <Card style={{ margin: "10px", width: "30rem" }}>
+      <Card style={{ margin: "10px", width: "22rem" }}>
         <CardBody>
           <CardImg
             width="100%"
